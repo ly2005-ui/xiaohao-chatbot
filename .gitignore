@@ -1,0 +1,20 @@
+# secrets
+.env
+*.env
+!.env.example
+
+# runtime output
+chat_history/
+*.log
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# editor / os
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
