@@ -66,3 +66,5 @@ API_KEY = os.getenv("AIMLAPI_KEY", "")
 ## 许可
 
 [MIT](LICENSE)
+
+<!-- repo verified 2026-09-23 -->
